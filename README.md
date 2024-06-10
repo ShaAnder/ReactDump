@@ -8,7 +8,7 @@ those categories / sub categories.
 
 
 
-**Jump to:**  [Ideas](ideas) | [Course Projects](#course-projects) | [Applications](#applications) | [Snippets](#snippets)
+**Jump to:**  [Ideas](#ideas) | [Course Projects](#course-projects) | [Applications](#applications) | [Snippets](#snippets)
 
 ## Ideas
 
