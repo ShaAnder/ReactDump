@@ -129,4 +129,4 @@ all of them. I need some secrets after all 😉
   Small gist for a reusable star rating component, used in the react popcorn app!
   <br>
 
-  [To start](#to-start)
+[To start](#to-start)
