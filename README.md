@@ -34,6 +34,15 @@ marked as such in the repo shown.
       <img loading="lazy" src="https://github.com/ShaAnder/ReactDump/assets/129494996/fc564bed-8f0e-4ed3-bd22-9b27c76d98d9" height="300px">
   </details>
 
+- [Pokepedia](https://github.com/ShaAnder/pokepedia)
+  <br><br>
+  Small website based app, designed with emulating the national pokedex in mind.
+  <br>
+  <details>
+    <summary>Preview</summary>
+      <img loading="lazy" src="https://github.com/ShaAnder/ReactDump/assets/129494996/93f48fe6-4187-4fef-b110-8b024cd2b89e" height="300px">
+  </details>
+
 [To start](#welcome-to-the-react-d-u-m-p)
 
 ## Course Projects
