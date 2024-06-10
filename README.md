@@ -95,6 +95,8 @@ I chose to work on. These are ordered by date of completion
     <img loading="lazy" src="https://github.com/ShaAnder/ReactDump/assets/129494996/41e0a663-3f32-4f43-8fc5-8d55432ccbd7" height="300px">
   </details>
 
+[To start](#to-start)
+
 ## Applications
 
 Much like the finished course projects section, these are finished and working applications that I wanted to find a place for that 
@@ -108,6 +110,8 @@ are not nessecarily on my portfolio, older portfolio works are stored here too!
       <summary>Preview</summary>
         <img loading="lazy" src="https://github.com/ShaAnder/ReactDump/assets/129494996/aad5ad1d-88b3-42bd-9d18-643228458fca" height="300px">
     </details>
+
+[To start](#to-start)
 
 ## Snippets
 
@@ -124,3 +128,5 @@ all of them. I need some secrets after all 😉
   <br><br>
   Small gist for a reusable star rating component, used in the react popcorn app!
   <br>
+
+  [To start](#to-start)
