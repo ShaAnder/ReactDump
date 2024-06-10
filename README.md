@@ -1,6 +1,6 @@
 ## Welcome to the React D U M P
 
-## To Start
+
 
 This is as stated in the main linker fil the dump repo for all my React projects and code snippets. 
 I'll try and categorize these by type as I go so please see below for a quick nav bar to each of 
@@ -34,7 +34,7 @@ marked as such in the repo shown.
       <img loading="lazy" src="https://github.com/ShaAnder/ReactDump/assets/129494996/fc564bed-8f0e-4ed3-bd22-9b27c76d98d9" height="300px">
   </details>
 
-[To start](#to-start)
+[To start](#welcome-to-the-react-d-u-m-p)
 
 ## Course Projects
 
