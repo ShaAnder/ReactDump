@@ -8,7 +8,7 @@ those categories / sub categories.
 
 
 
-**Jump to:**  [Ideas](#ideas) | [Course Projects](#course-projects) | [Applications](#applications) | [Snippets](#snippets)
+**Jump to:**  [Ideas](#ideas) | [Course Projects](#course-projects) | [Applications](#applications) | [Snippets](#snippets) | [Portfolio](#portfolio)
 
 ## Ideas
 
@@ -135,6 +135,16 @@ all of them. I need some secrets after all 😉
 
 - [StarRating](https://gist.github.com/ShaAnder/e45561e2c92fd954d5406e66307df8b6)
   <br><br>
+
+## Portfolio
+
+A newly added section, stuff that you can find on my portfolio! This is where i'll keep all react projects that are a part of my portfolio, things I use to show potential clients 
+my work as well as stuff I proudly display!
+
+- [UnMapped](https://github.com/ShaAnder/unmapped)
+  <br><br>
+  Unmapped is a static website built in react, typescript and scss that is used to showcase my frontend skills. The application is for a fictional touring company that utilizes nature oriented trails to draw a customer base!
+  <br>
   Small gist for a reusable star rating component, used in the react popcorn app!
   <br>
 
